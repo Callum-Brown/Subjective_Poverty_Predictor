@@ -84,30 +84,7 @@ This graph shows:
    ```
 3. Run the Jupyter notebooks in the `notebooks/` directory to reproduce the analysis
 
-## Project Structure
-```
-project-name/
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── external/
-├── notebooks/
-│   ├── 01_exploratory_data_analysis.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   └── 03_modeling.ipynb
-├── src/
-│   ├── data/
-│   ├── features/
-│   └── models/
-├── images/
-│   ├── feature_importance.png
-│   ├── label_distribution.png
-│   ├── rolling_average.png
-│   ├── xgboost_learning_curve.png
-│   └── random_forest_learning_curve.png
-├── requirements.txt
-└── README.md
-```
+
 
 ## License
 [Insert your chosen license here]
