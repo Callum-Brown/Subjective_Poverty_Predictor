@@ -7,8 +7,7 @@ This project focuses on predicting subjective poverty levels using machine learn
 The dataset includes various features related to household characteristics and economic indicators. The target variable is the subjective poverty score, which ranges from 1 to 10, with 1 being the poorest and 10 being the richest. 
 
 ### Data Distribution
-The training set shows a skewed normal distribution of subjective poverty scores centered around 4-5, with very few observations in the range of 9 to 10. The skewed distribution of
-the data was an important consideration that had to be accounted for in the modelling stage.
+The training set shows a skewed normal distribution of subjective poverty scores centered around 4-5, with very few observations in the range of 9 to 10. The skewed distribution of the data was an important consideration that had to be accounted for in the modelling stage.
 
 ![Rplot](https://github.com/user-attachments/assets/0ea6f3d2-b36b-4c04-8e99-51393f29cbe1)
 
@@ -84,10 +83,3 @@ This graph shows:
    ```
 3. Run the Jupyter notebooks in the `notebooks/` directory to reproduce the analysis
 
-4. Run R code in Rstudio
-
-## License
-[Insert your chosen license here]
-
-## Acknowledgements
-[Include any acknowledgements, data sources, or inspirations]
