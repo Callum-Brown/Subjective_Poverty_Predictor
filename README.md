@@ -84,7 +84,7 @@ This graph shows:
    ```
 3. Run the Jupyter notebooks in the `notebooks/` directory to reproduce the analysis
 
-
+4. Run R code in Rstudio
 
 ## License
 [Insert your chosen license here]
